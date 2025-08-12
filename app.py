@@ -89,14 +89,17 @@ if missing:
     st.write("Colunas detectadas no arquivo:", df_raw.columns.tolist())
 
 # normaliza duracao
-if 'duracao' in df.columns:
-    # Converter "5 dias" para número inteiro (5)
-    df["Duração_num"] = df["Duração"].str.replace(" dias", "").astype(int)
 
-# Se quiser transformar em timedelta (ex: útil para somar datas)
-    df["Duração_tempo"] = pd.to_timedelta(df["Duração_num"], unit="D")
+# normaliza duracao
+if 'duracao' in df.columns:
+    # Garante que a coluna 'duracao' seja numérica, tratando textos como '10 dias'
+    df['duracao'] = df['duracao'].astype(str).str.extract('(\d+)').astype(float)
+    df['duracao'] = pd.to_numeric(df['duracao'], errors='coerce').fillna(1.0)
 else:
     st.error("Coluna de duração não encontrada — não é possível continuar.")
+    # Adiciona uma dica para o usuário
+    st.write("Colunas detectadas no arquivo:", df_raw.columns.tolist())
+    st.write("Colunas após normalização:", df.columns.tolist())
     st.stop()
 
 # padroniza valores de condição
