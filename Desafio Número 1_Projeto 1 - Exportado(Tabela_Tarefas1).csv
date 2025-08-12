@@ -1,0 +1,60 @@
+Número;Classificação;Categoria;Fase;Condição;Nome;Duração;Como Fazer;Documento Referência;% Concluída
+121;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Definir especificações de barreira e proteção dos blisters;5 dias;Texto.121;Doc.121;100%
+122;Embalagem Primária;Blisters;1. Escopo & Briefing;Sempre;Determinar tipo de blister (PVC, PVDC, Alu-Alu, etc.);5 dias;Texto.122;Doc.122;100%
+123;Embalagem Primária;Blisters;1. Escopo & Briefing;B;Levantar normas regulatórias farmacêuticas;5 dias;Texto.123;Doc.123;100%
+124;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Estabelecer requisitos de shelf life;5 dias;Texto.124;Doc.124;100%
+125;Embalagem Primária;Blisters;1. Escopo & Briefing;A;Definir compatibilidade com máquinas de blister;5 dias;Texto.125;Doc.125;100%
+126;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Definir resistência a perfuração e abrasão;5 dias;Texto.126;Doc.126;100%
+127;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Planejar cronograma e stakeholders do projeto;10 dias;Texto.127;Doc.127;100%
+128;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Definir dimensões e layout do blister;10 dias;Texto.128;Doc.128;100%
+129;Embalagem Primária;Blisters;1. Escopo & Briefing;Sempre;Identificar requisitos de impressão (lotes, validade);10 dias;Texto.129;Doc.129;100%
+130;Embalagem Primária;Blisters;1. Escopo & Briefing;C;Elaborar briefing formal;5 dias;Texto.130;Doc.130;100%
+131;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Pesquisar fornecedores de blisters farmacêuticos;15 dias;Texto.131;Doc.131;100%
+132;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Analisar portfólio atual de formatos;15 dias;Texto.132;Doc.132;100%
+133;Embalagem Primária;Blisters;2. Pesquisa e Análise;C;Avaliar materiais alternativos de alta barreira;10 dias;Texto.133;Doc.133;100%
+134;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Realizar benchmark de concorrentes;10 dias;Texto.134;Doc.134;100%
+135;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Analisar tendências de blisters sustentáveis;25 dias;Texto.135;Doc.135;100%
+136;Embalagem Primária;Blisters;2. Pesquisa e Análise;C;Avaliar compatibilidade com formulações sensíveis;10 dias;Texto.136;Doc.136;100%
+137;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Levantar patentes de formatos diferenciados;10 dias;Texto.137;Doc.137;0%
+138;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Mapear falhas anteriores em blisters;15 dias;Texto.138;Doc.138;0%
+139;Embalagem Primária;Blisters;2. Pesquisa e Análise;Sempre;Estimar custo por material de blister;20 dias;Texto.139;Doc.139;0%
+140;Embalagem Primária;Blisters;2. Pesquisa e Análise;A;Analisar conformidade regulatória internacional;10 dias;Texto.140;Doc.140;0%
+141;Embalagem Primária;Blisters;3. Concepção e Protótipo;A;Criar protótipos de cavidades e selagem;10 dias;Texto.141;Doc.141;0%
+142;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Desenvolver desenhos técnicos;10 dias;Texto.142;Doc.142;0%
+143;Embalagem Primária;Blisters;3. Concepção e Protótipo;C;Avaliar alternativas de selagem;20 dias;Texto.143;Doc.143;0%
+144;Embalagem Primária;Blisters;3. Concepção e Protótipo;B;Simular condições de transporte;20 dias;Texto.144;Doc.144;0%
+145;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Testar impressão de lote e validade no material;20 dias;Texto.145;Doc.145;0%
+146;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Validar visualmente cavidades e película;20 dias;Texto.146;Doc.146;0%
+147;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Analisar ergonomia de abertura do blister;10 dias;Texto.147;Doc.147;0%
+148;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Ajustar espessura e resistência dos filmes;15 dias;Texto.148;Doc.148;0%
+149;Embalagem Primária;Blisters;3. Concepção e Protótipo;Sempre;Aprovar protótipo técnico para testes;15 dias;Texto.149;Doc.149;0%
+150;Embalagem Primária;Blisters;4. Validação de Conceito;Sempre;Testar barreira à umidade e oxigênio;20 dias;Texto.150;Doc.150;0%
+151;Embalagem Primária;Blisters;4. Validação de Conceito;B;Testar resistência a impacto e transporte;20 dias;Texto.151;Doc.151;0%
+152;Embalagem Primária;Blisters;4. Validação de Conceito;Sempre;Testar estabilidade do produto embalado;10 dias;Texto.152;Doc.152;0%
+153;Embalagem Primária;Blisters;4. Validação de Conceito;C;Testar selagem de segurança do blister;20 dias;Texto.153;Doc.153;0%
+154;Embalagem Primária;Blisters;4. Validação de Conceito;Sempre;Avaliar durabilidade da impressão sobre a película;15 dias;Texto.154;Doc.154;0%
+155;Embalagem Primária;Blisters;4. Validação de Conceito;C;Avaliar riscos de migração do material;15 dias;Texto.155;Doc.155;0%
+156;Embalagem Primária;Blisters;4. Validação de Conceito;B;Validar compatibilidade do material com formulação;20 dias;Texto.156;Doc.156;0%
+157;Embalagem Primária;Blisters;4. Validação de Conceito;B;Testar usabilidade para o paciente (facilidade de abertura);10 dias;Texto.157;Doc.157;0%
+158;Embalagem Primária;Blisters;4. Validação de Conceito;Sempre;Confirmar conformidade regulatória;15 dias;Texto.158;Doc.158;0%
+159;Embalagem Primária;Blisters;4. Validação de Conceito;B;Realizar teste de campo de aceitação;15 dias;Texto.159;Doc.159;0%
+160;Embalagem Primária;Blisters;5. Viabilidade;A;Analisar custo de produção dos novos blisters;15 dias;Texto.160;Doc.160;0%
+161;Embalagem Primária;Blisters;5. Viabilidade;Sempre;Validar capacidade de fornecimento dos materiais;10 dias;Texto.161;Doc.161;0%
+162;Embalagem Primária;Blisters;5. Viabilidade;Sempre;Avaliar capacidade de produção em alta escala;20 dias;Texto.162;Doc.162;0%
+163;Embalagem Primária;Blisters;5. Viabilidade;C;Estimar prazo de produção e entrega;10 dias;Texto.163;Doc.163;0%
+164;Embalagem Primária;Blisters;5. Viabilidade;B;Verificar impacto ambiental dos materiais usados;10 dias;Texto.164;Doc.164;0%
+165;Embalagem Primária;Blisters;5. Viabilidade;Sempre;Identificar alternativas de materiais sustentáveis;10 dias;Texto.165;Doc.165;0%
+166;Embalagem Primária;Blisters;5. Viabilidade;A;Avaliar necessidade de adaptação de máquinas;20 dias;Texto.166;Doc.166;0%
+167;Embalagem Primária;Blisters;5. Viabilidade;Sempre;Analisar custo logístico adicional;20 dias;Texto.167;Doc.167;0%
+168;Embalagem Primária;Blisters;5. Viabilidade;A;Realizar análise de riscos operacionais;20 dias;Texto.168;Doc.168;0%
+169;Embalagem Primária;Blisters;5. Viabilidade;B;Consolidar estudo de 5. Viabilidade técnica e econômica;10 dias;Texto.169;Doc.169;0%
+170;Embalagem Primária;Blisters;6. Implementação;C;Iniciar a produção piloto dos blisters;20 dias;Texto.170;Doc.170;0%
+171;Embalagem Primária;Blisters;6. Implementação;Sempre;Validar parâmetros de termoformagem e selagem;15 dias;Texto.171;Doc.171;0%
+172;Embalagem Primária;Blisters;6. Implementação;C;Ajustar processos conforme produção piloto;10 dias;Texto.172;Doc.172;0%
+173;Embalagem Primária;Blisters;6. Implementação;C;Implementar controle de qualidade para nova embalagem;15 dias;Texto.173;Doc.173;0%
+174;Embalagem Primária;Blisters;6. Implementação;B;Testar robustez da produção em escala;15 dias;Texto.174;Doc.174;0%
+175;Embalagem Primária;Blisters;6. Implementação;Sempre;Atualizar procedimentos de rastreabilidade;20 dias;Texto.175;Doc.175;0%
+176;Embalagem Primária;Blisters;6. Implementação;C;Treinar operadores e equipe de controle de qualidade;20 dias;Texto.176;Doc.176;0%
+177;Embalagem Primária;Blisters;6. Implementação;A;Atualizar documentação técnica e fluxos internos;15 dias;Texto.177;Doc.177;0%
+178;Embalagem Primária;Blisters;6. Implementação;C;Realizar auditorias internas pós-produção piloto;20 dias;Texto.178;Doc.178;0%
+179;Embalagem Primária;Blisters;6. Implementação;B;Liberar produção para mercado;15 dias;Texto.179;Doc.179;0%
