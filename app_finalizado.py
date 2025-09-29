@@ -5,7 +5,10 @@ import plotly.express as px
 from io import BytesIO
 import re # Importando a biblioteca de expressões regulares
 
-st.set_page_config(page_title="Gerador de Cronograma - Embalagens", layout="wide")
+st.set_page_config(
+    page_title="Gerador de Cronograma - Embalagens",
+    page_icon="logotipoache.png",
+    layout="wide")
 
 # --- INÍCIO: INICIALIZAÇÃO DO SESSION STATE ---
 # Essencial para que o chatbot possa se comunicar com os filtros da sidebar
@@ -23,6 +26,7 @@ st.markdown(
     - O modo padrão agenda **cada fase iniciando somente após a fase anterior terminar** (dependência automática entre fases).
     """
 )
+
 
 
 # --- INÍCIO: LÓGICA DO CHATBOT ---
@@ -175,7 +179,7 @@ if st.button("Aplicar Comando"):
     st.session_state.chatbot_filters = parse_command(user_command, all_cats, all_phases, all_conds)
 # --- FIM: INTERFACE DO CHATBOT ---
 
-
+st.sidebar.image("logotipoache.png", use_container_width=True)
 # ---------- Filtros básicos ----------
 st.sidebar.header("Filtros do projeto")
 start_date = st.sidebar.date_input("Data de início do projeto", value=pd.Timestamp.today().date())
@@ -198,6 +202,8 @@ if selected_categoria != 'Todos' and 'categoria' in df.columns:
 phases = list(df['fase'].dropna().unique())
 phases_ordered = phases
 st.sidebar.markdown(f"**Fases detectadas:** {len(phases_ordered)}")
+
+
 
 st.sidebar.subheader("Condições por fase (Sempre é sempre incluída)")
 phase_conditions = {}
